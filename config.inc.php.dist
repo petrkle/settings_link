@@ -1,0 +1,3 @@
+<?php
+
+$config['settings_link_url'] = '?_task=settings&_action=plugin.managesieve';
